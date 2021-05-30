@@ -1,6 +1,6 @@
 ### Hola, I'm Vikas Thakur 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on HTML5,CSS3.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about HTML or Javascript
