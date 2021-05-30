@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about HTML or Javascript
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/vikas-kumar12
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/vikas-kumar12 , Twitter: @Vikas_thakurr
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: I love Errors
