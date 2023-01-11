@@ -1,6 +1,6 @@
 ### Hola, I'm Vikas Thakur 👋
 
-- 🔭 I’m having hand on exprience of HTML5,CSS3 and Javascript.
+- 🔭 Front end developer got experties in HTML5,CSS3, Javascript and ReactJs.
 - 🌱 I’m currently dealing with PHP.
 - 👯 I’m looking to collaborate on Github.
 - 💬 Ask me about HTML or Javascript and React Js.
