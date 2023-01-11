@@ -1,6 +1,6 @@
 ![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/website.gif)
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<h3 align="center">A passionate ReactJs developer from Lovely Professional University</h3>
+<h3 align="center" font-size="50px">A passionate ReactJs developer from Lovely Professional University</h3>
 <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" alt="Coding" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="vikasthakurr" /> </p>
