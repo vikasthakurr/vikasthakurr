@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/vikas_thakurr" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_thakurr?logo=twitter&style=for-the-badge" alt="vikas_thakurr" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Student Tool Kit**
 
-- 🌱 I’m currently learning **ReactJs and Redux**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
