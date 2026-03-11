@@ -1,4 +1,4 @@
-# Hi there, I'm Vikas Kumar (vikasthakurr) 👋
+# Hi there, I'm Vikas Thakur 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikasthakurr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -7,12 +7,12 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** and **Full Stack Developer** specializing in modern JavaScript ecosystems. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
+I am a **Software Engineer** and **Mentor** specializing in modern JavaScript ecosystems. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
 
 - 🏆 **3× LinkedIn Top Voice** in Web Development.
 - 🎓 **Educator:** Empowered **12,000+ students** with industry-ready skills.
 - 🏢 Working at **GeeksforGeeks**.
-- 🚀 Specialized in: **Next.js, Scalable REST APIs, and Secure Authentication.**
+- 🚀 Specialized in: ** React.js, Next.js, Scalable REST APIs, and Secure Authentication.**
 
 ---
 
@@ -52,5 +52,5 @@ I am a **Software Engineer** and **Full Stack Developer** specializing in modern
 ---
 <p align="center">
   <b>Let's build something amazing! 🚀</b> <br />
-  [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr) • [Portfolio](https://auth.geeksforgeeks.org/user/vikasthakurr)
+  [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr)
 </p>
