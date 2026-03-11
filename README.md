@@ -7,63 +7,50 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** and **Full Stack Developer** with a deep passion for the JavaScript ecosystem. Beyond building scalable applications, I am dedicated to community building and education.
+I am a **Software Engineer** and **Full Stack Developer** specializing in modern JavaScript ecosystems. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
 
 - 🏆 **3× LinkedIn Top Voice** in Web Development.
-- 🎓 **Educator:** Proudly trained over **12,000+ students** in modern web technologies.
-- 🏢 Currently working at **GeeksforGeeks**.
-- 🔭 Focusing on: High-performance React applications and robust Node.js backends.
-- 💬 Ask me about: **JavaScript, MERN Stack, and System Design.**
+- 🎓 **Educator:** Empowered **12,000+ students** with industry-ready skills.
+- 🏢 Working at **GeeksforGeeks**.
+- 🚀 Specialized in: **Next.js, Scalable REST APIs, and Secure Authentication.**
+
+---
+
+### 🏆 Achievements & Impact
+> "Success is not just about what you accomplish, but what you inspire others to do."
+
+* ⚖️ **Judge @ 32+ Google Hackathons:** Evaluated hundreds of innovative projects and provided technical mentorship.
+* 🎤 **200+ College Sessions Delivered:** Conducted workshops and guest lectures on Web Development and Career Building across top universities.
+* 🌟 **12k+ Students Mentored:** Actively shaping the next generation of Full Stack Developers.
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database & ORM** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Specialization** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) ![Auth](https://img.shields.io/badge/Auth_&_Security-FF9900?style=flat-square&logo=auth0&logoColor=white) ![Architecture](https://img.shields.io/badge/System_Design-FF4B4B?style=flat-square&logo=diagramsdotnet&logoColor=white) |
 
 ---
 
-### 📚 Featured Resources & Repositories
-I maintain several resources to help developers crack technical interviews:
-
-* 🚀 **[JavaScript Interview Questions](https://github.com/vikasthakurr/Javascript-interview-questions)** - Comprehensive guide for JS interviews.
-* ⚛️ **[React Interview Questions](https://github.com/vikasthakurr/React-Interview-Questions)** - Most asked React.js concepts.
-* ⚙️ **[Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)** - Essential backend & system design notes.
-* 💻 **[MERN Hybrid](https://github.com/vikasthakurr/MERN-Hybrid)** - Full-stack development architectures.
+### 📚 Featured Resources
+* 🚀 **[JavaScript Interview Masterclass](https://github.com/vikasthakurr/Javascript-interview-questions)**
+* ⚛️ **[React Interview Questions](https://github.com/vikasthakurr/React-Interview-Questions)**
+* ⚙️ **[Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)**
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Activity
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasthakurr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasthakurr&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasthakurr&theme=tokyonight" alt="vikasthakurr's streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
-* **LinkedIn:** [linkedin.com/in/vikasthakurr](https://www.linkedin.com/in/vikasthakurr)
-* **Twitter:** [@vikasthaakurr](https://twitter.com/vikasthaakurr)
-* **Portfolio:** [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/vikasthakurr)
-
 ---
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br />
-  <b>Keep Building! 🚀</b>
+  <b>Let's build something amazing! 🚀</b> <br />
+  [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr) • [Portfolio](https://auth.geeksforgeeks.org/user/vikasthakurr)
 </p>
