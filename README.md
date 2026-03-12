@@ -7,12 +7,13 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** and **Mentor** specializing in modern JavaScript ecosystems and scalable system architecture. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
+I am a **Software Engineer** with **3+ years of experience** specializing in building high-performance, scalable full-stack applications. I balance my time between engineering robust systems and mentoring the next generation of developers.
 
+- 🛠 **3+ Years Professional Experience** in Full-Stack Development & Architecture.
 - 🏆 **3× LinkedIn Top Voice** in Web Development.
 - 🎓 **Educator:** Empowered **12,000+ students** with industry-ready skills.
 - 🏢 Working at **GeeksforGeeks**.
-- 🚀 Specialized in: **Next.js, TypeScript, HLD, and Secure Architectures.**
+- 🚀 Expert in: **Next.js, TypeScript, High-Level Design (HLD), and Redis.**
 
 ---
 
