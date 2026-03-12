@@ -43,14 +43,6 @@ I am a **Software Engineer** with **3+ years of experience** specializing in bui
 * ⚙️ **[Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)**
 
 ---
-
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasthakurr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasthakurr&layout=compact&theme=tokyonight" />
-</p>
-
----
 <p align="center">
   <b>Let's build something amazing! 🚀</b> <br />
   [LinkedIn](https://www.linkedin.com/in/vikasthakurr) • [Twitter](https://twitter.com/vikasthaakurr)
