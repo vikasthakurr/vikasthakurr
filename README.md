@@ -7,12 +7,12 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Software Engineer** and **Mentor** specializing in modern JavaScript ecosystems. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
+I am a **Software Engineer** and **Mentor** specializing in modern JavaScript ecosystems and scalable system architecture. As an educator and community leader, I bridge the gap between complex tech stacks and aspiring developers.
 
 - 🏆 **3× LinkedIn Top Voice** in Web Development.
 - 🎓 **Educator:** Empowered **12,000+ students** with industry-ready skills.
 - 🏢 Working at **GeeksforGeeks**.
-- 🚀 Specialized in: ** React.js, Next.js, Scalable REST APIs, and Secure Authentication.**
+- 🚀 Specialized in: **Next.js, TypeScript, HLD, and Secure Architectures.**
 
 ---
 
@@ -29,10 +29,10 @@ I am a **Software Engineer** and **Mentor** specializing in modern JavaScript ec
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Accessibility](https://img.shields.io/badge/ARIA_Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white) |
+| **Backend & Cache** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Database & ORM** | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Specialization** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) ![Auth](https://img.shields.io/badge/Auth_&_Security-FF9900?style=flat-square&logo=auth0&logoColor=white) ![Architecture](https://img.shields.io/badge/System_Design-FF4B4B?style=flat-square&logo=diagramsdotnet&logoColor=white) |
+| **Specialization** | ![System Design](https://img.shields.io/badge/HLD_&_LLD-FF4B4B?style=flat-square&logo=diagramsdotnet&logoColor=white) ![Monorepo](https://img.shields.io/badge/Monorepo-FFD700?style=flat-square&logo=turborepo&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Auth](https://img.shields.io/badge/Auth_&_Security-FF9900?style=flat-square&logo=auth0&logoColor=white) |
 
 ---
 
