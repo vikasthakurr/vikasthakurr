@@ -20,8 +20,8 @@ I am a **Software Engineer** with **3+ years of experience** specializing in bui
 ### 🏆 Achievements & Impact
 > "Success is not just about what you accomplish, but what you inspire others to do."
 
-* ⚖️ **Judge @ 32+ Google Hackathons:** Evaluated hundreds of innovative projects and provided technical mentorship.
-* 🎤 **200+ College Sessions Delivered:** Conducted workshops and guest lectures on Web Development and Career Building across top universities.
+* ⚖️ **Judge @ 38+ Google Hackathons:** Evaluated hundreds of innovative projects and provided technical mentorship.
+* 🎤 **470+ College Sessions Delivered:** Conducted workshops and guest lectures on Web Development and Career Building across top universities.
 * 🌟 **12k+ Students Mentored:** Actively shaping the next generation of Full Stack Developers.
 
 ---
