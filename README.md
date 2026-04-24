@@ -1,7 +1,7 @@
 # Vikas Thakur
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0F172A&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Systems+Builder;System+Design+Focused;Tech+Educator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=ffffff&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Systems+Builder;System+Design+Focused;Tech+Educator" />
 </p>
 
 <p align="left">
