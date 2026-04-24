@@ -1,9 +1,19 @@
 # Hi there, I'm Vikas Thakur 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vikasthakurr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/vikasthaakurr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/vikasthaakurr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=0077B5&vCenter=true&width=450&lines=Software+Engineer;Full+Stack+Developer;System+Design+Enthusiast;Tech+Educator" />
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vikasthakurr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vikasthaakurr">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vikasthaakurr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -16,7 +26,7 @@ Software Engineer focused on building scalable full-stack systems and simplifyin
 - 🏆 3× LinkedIn Top Voice in Web Development  
 - 🎓 Mentored 12,000+ students in industry-ready development skills  
 - 🏢 Currently working at GeeksforGeeks  
-- 🚀 Core expertise: Next.js, TypeScript, System Design (HLD/LLD), Redis  
+- 🚀 Core expertise: Next.js, TypeScript, System Design (HLD), Redis  
 
 ---
 
@@ -24,7 +34,7 @@ Software Engineer focused on building scalable full-stack systems and simplifyin
 
 - ⚖️ Judge for 38+ Google Hackathons, evaluating and mentoring innovative projects  
 - 🎤 Delivered 470+ technical sessions across colleges and universities  
-- 🌱 Actively mentoring developers transitioning into full-stack roles  
+- 🌱 Mentoring developers transitioning into full-stack engineering roles  
 
 ---
 
@@ -35,7 +45,7 @@ Software Engineer focused on building scalable full-stack systems and simplifyin
 | Frontend | Next.js, React, TypeScript |
 | Backend | Node.js, Express, PHP, Redis |
 | Database | MongoDB, PostgreSQL, Prisma |
-| System Design | HLD, LLD, Scalable Architecture |
+| System Design | HLD, Scalable Architecture |
 | Tools | Postman, Monorepo (Turborepo), Auth & Security |
 
 ---
@@ -47,6 +57,12 @@ Software Engineer focused on building scalable full-stack systems and simplifyin
 - ⚙️ [Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikasthakurr&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vikasthakurr?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/vikasthakurr?style=flat-square" />
+</p>
 
 <p align="center">
   <b>Let’s build scalable systems and strong engineering fundamentals 🚀</b>
