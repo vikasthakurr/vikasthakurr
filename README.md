@@ -1,18 +1,18 @@
 # Vikas Thakur
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=111827&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Systems+Builder;System+Design+Focused;Tech+Educator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0F172A&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Systems+Builder;System+Design+Focused;Tech+Educator" />
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikasthakurr">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/vikasthaakurr">
-    <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vikasthaakurr">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
