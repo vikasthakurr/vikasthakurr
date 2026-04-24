@@ -92,6 +92,7 @@ https://github.com/vikasthakurr/Backend-Interview-cheatSheet
 
 > Build systems that scale.  
 > Teach systems so others can build better ones.
+> Ask What,Why,How
 
 ---
 
