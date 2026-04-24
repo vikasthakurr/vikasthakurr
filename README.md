@@ -1,82 +1,92 @@
-# Hi there, I'm Vikas Thakur 👋
+# Vikas Thakur
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=0077B5&vCenter=true&width=520&lines=Software+Engineer;Full-Stack+Developer;System+Design+Engineer;Tech+Educator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0077B5&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Educator;Building+Scalable+Systems+%26+Teaching+Them;3x+LinkedIn+Top+Voice+in+Web+Development" />
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vikasthakurr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/vikasthaakurr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vikasthaakurr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Who I Am
 
-Software Engineer focused on scalable full-stack systems and engineering education.
+I am a software engineer who builds scalable systems and teaches how they work in simple, practical ways.
 
-- 🛠 3+ years in Full-Stack Development and System Design  
-- 🏆 3× LinkedIn Top Voice in Web Development  
-- 🎓 Mentored 12,000+ developers  
-- 🏢 Working at GeeksforGeeks  
-- 🚀 Core: Next.js, TypeScript, System Design (HLD), Redis  
+I spend my time between:
+- Engineering production-grade full-stack systems
+- Breaking down complex system design into simple mental models
+- Helping developers become industry-ready
 
 ---
 
-### 📊 GitHub Activity
+## What I Focus On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasthakurr&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasthakurr&hide_border=true" height="160"/>
+- Scalable Full-Stack Development
+- System Design (practical + production focused)
+- Developer Education and Mentorship
+- Performance, Architecture, and Real-world Engineering
+
+---
+
+## Impact Snapshot
+
+- 3× LinkedIn Top Voice in Web Development  
+- 12,000+ developers mentored  
+- 38+ Google Hackathons as judge and mentor  
+- 470+ technical sessions across colleges  
+- Currently working at GeeksforGeeks  
+
+---
+
+## Tech I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,prisma,git,docker" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasthakurr&theme=github-compact" />
-</p>
+**System Thinking:**  
+HLD, Scalable Architecture, Caching Strategies, API Design
 
 ---
 
-### 🏆 Impact & Contributions
+## What I Share
 
-- ⚖️ Judge for 38+ Google Hackathons  
-- 🎤 470+ technical sessions across universities  
-- 🌱 Mentoring developers into full-stack roles  
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| Frontend | Next.js, React, TypeScript |
-| Backend | Node.js, Express, PHP, Redis |
-| Database | MongoDB, PostgreSQL, Prisma |
-| System Design | HLD, Scalable Architecture |
-| Tools | Postman, Monorepo, Auth & Security |
+- System Design breakdowns
+- Full-stack architecture patterns
+- Interview preparation insights
+- Real-world engineering lessons
 
 ---
 
-### 📚 Featured Resources
+## Featured Work
 
-- 🚀 [JavaScript Interview Masterclass](https://github.com/vikasthakurr/Javascript-interview-questions)  
-- ⚛️ [React Interview Questions](https://github.com/vikasthakurr/React-Interview-Questions)  
-- ⚙️ [Backend CheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet)  
+- 🚀 JavaScript Interview Masterclass  
+  https://github.com/vikasthakurr/Javascript-interview-questions  
+
+- ⚛️ React Interview Questions  
+  https://github.com/vikasthakurr/React-Interview-Questions  
+
+- ⚙️ Backend CheatSheet  
+  https://github.com/vikasthakurr/Backend-Interview-cheatSheet  
+
+---
+
+## Closing Thought
+
+I believe good engineering is not just about building systems, but about understanding them deeply enough to explain them simply.
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikasthakurr&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/followers/vikasthakurr?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/vikasthakurr?style=flat-square" />
-</p>
-
-<p align="center">
-  <b>Building scalable systems and strong engineering fundamentals 🚀</b>
 </p>
