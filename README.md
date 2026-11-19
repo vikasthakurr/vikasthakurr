@@ -8,7 +8,7 @@ Software Engineer at GeeksforGeeks and 3x LinkedIn Top Voice in Web Development.
 
 ## Executive Summary
 
-- Role: Software Engineer at GeeksforGeeks
+- Role: SDE at GeeksforGeeks
 - Recognition: 3x LinkedIn Top Voice in Web Development
 - Leadership: Mentored over 12,000 engineers across 470+ technical masterclasses and workshops
 - Mentorship: Judge and technical mentor for 38+ Google Developer Student Club hackathons
