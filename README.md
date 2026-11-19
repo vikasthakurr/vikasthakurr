@@ -42,16 +42,40 @@ Software Engineer at GeeksforGeeks and 3x LinkedIn Top Voice in Web Development.
 
 ---
 
-## Featured Repositories & Engineering Curricula
+## Flagship Engineering Curricula & Guides
 
-| Repository | Domain | Description |
+| Repository | Domain | Highlights |
 | :--- | :--- | :--- |
-| [High-Level-Design](https://github.com/vikasthakurr/High-Level-Design) | Distributed Systems | Comprehensive roadmap and case studies (Netflix, Uber, WhatsApp) for HLD and distributed architectures. |
-| [FullStack-WebDev-Notes](https://github.com/vikasthakurr/FullStack-WebDev-Notes) | Full-Stack Engineering | 100+ structured engineering notes covering foundations, frontend, backend, and DevOps. |
-| [Backend-Interview-cheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet) | Backend Engineering | In-depth backend interview preparation covering Node.js architecture, Express patterns, database design, and caching. |
-| [Javascript-interview-questions](https://github.com/vikasthakurr/Javascript-interview-questions) | Core Engineering | Deep-dive JavaScript interview guide covering closures, event loop, asynchronous mechanics, and prototype inheritance. |
-| [React-Interview-Questions](https://github.com/vikasthakurr/React-Interview-Questions) | Frontend Systems | Production React concepts, hooks internals, reconciliation, and performance tuning. |
-| [machine-code](https://github.com/vikasthakurr/machine-code) | System Design & Evaluation | Machine coding interview practice platform with real-time sandboxed code execution. |
+| [High-Level-Design](https://github.com/vikasthakurr/High-Level-Design) | Distributed Systems | Comprehensive roadmap and production case studies (Netflix, Uber, WhatsApp) for HLD, caching, and scalable architecture. |
+| [FullStack-WebDev-Notes](https://github.com/vikasthakurr/FullStack-WebDev-Notes) | Full-Stack Systems | 100+ structured engineering notes covering foundations, frontend, backend, databases, system design, and DevOps. |
+| [Backend-Interview-cheatSheet](https://github.com/vikasthakurr/Backend-Interview-cheatSheet) | Backend Engineering | Practical backend patterns, Node.js event loop architecture, Express middleware design, and database indexing. |
+| [Javascript-interview-questions](https://github.com/vikasthakurr/Javascript-interview-questions) | Language Internals | Deep-dive JavaScript interview questions covering closures, execution contexts, event loop, and prototype mechanics. |
+| [React-Interview-Questions](https://github.com/vikasthakurr/React-Interview-Questions) | Frontend Architecture | Core React internals, reconciliation engine, custom hook patterns, state synchronization, and performance optimization. |
+| [Full-Stack-Mastery-With-VikasThakur](https://github.com/vikasthakurr/Full-Stack-Mastery-With-VikasThakur) | Engineering Roadmap | 28-session guided roadmap taking developers from foundations to production-grade distributed full-stack applications. |
+
+---
+
+## AI & Intelligent Systems
+
+| Repository | Domain | Highlights |
+| :--- | :--- | :--- |
+| [ai-for-devs-batch-1](https://github.com/vikasthakurr/ai-for-devs-batch-1) | AI Engineering | AI-assisted software development curriculum mastering agentic workflows, prompt engineering, and developer velocity. |
+| [ai-tools-project](https://github.com/vikasthakurr/ai-tools-project) | MCP & LLM Tools | Practical AI applications and Model Context Protocol (MCP) server integrations built with Python. |
+| [rag-based-chatbot](https://github.com/vikasthakurr/rag-based-chatbot) | Vector Search & RAG | Retrieval-Augmented Generation chatbot combining semantic vector indexing, document ingestion, and LLM responses. |
+| [text-to-sql](https://github.com/vikasthakurr/text-to-sql) | Natural Language DB | AI-powered natural language to SQL query generation engine leveraging LLMs and MCP server architecture. |
+
+---
+
+## Production Full-Stack Platforms & Capstones
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [machine-code](https://github.com/vikasthakurr/machine-code) | React, Node.js, Docker | Machine coding interview practice platform featuring real-time code evaluation and sandboxed execution. |
+| [mentordesk](https://github.com/vikasthakurr/mentordesk) | Next.js, TypeScript, Tailwind | Modern engineering mentorship and session booking portal with responsive UI architecture. |
+| [lms-project-capstone](https://github.com/vikasthakurr/lms-project-capstone) | MERN Stack, JWT | Full-featured Learning Management System featuring course management, student enrollment, and course player. |
+| [cloud-kitchen](https://github.com/vikasthakurr/cloud-kitchen) | React, Node.js, MongoDB | Cloud kitchen multi-brand food ordering platform with state management and order dispatching. |
+| [breeze-travel](https://github.com/vikasthakurr/breeze-travel) | JavaScript, Express, MongoDB | Full-stack travel booking and itinerary planning portal with user authentication and booking APIs. |
+| [HMS-Medico](https://github.com/vikasthakurr/HMS-Medico) | JavaScript, Node.js | Hospital Management System with doctor scheduling, patient clinical records, and appointment tracking. |
 
 ---
 
