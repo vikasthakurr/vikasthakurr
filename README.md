@@ -10,7 +10,7 @@ Software Engineer at GeeksforGeeks and 3x LinkedIn Top Voice in Web Development.
 
 - Role: SDE at GeeksforGeeks
 - Recognition: 3x LinkedIn Top Voice in Web Development
-- Leadership: Mentored over 12,000 engineers across 470+ technical masterclasses and workshops
+- Leadership: Mentored over 17,000 engineers across 470+ technical masterclasses and workshops
 - Mentorship: Judge and technical mentor for 38+ Google Developer Student Club hackathons
 - Core Specialization: Distributed systems, High-Level Design (HLD), scalable microservices, Next.js, and TypeScript architecture
 
